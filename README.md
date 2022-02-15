@@ -1,4 +1,4 @@
-# Hi there 👋
+# [Hello there](https://i.kym-cdn.com/photos/images/original/001/947/998/a66.jpg) 👋
 
 I'm Senior iOS developer with 4 years of experience.
 
