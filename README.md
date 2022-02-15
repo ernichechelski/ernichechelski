@@ -6,10 +6,10 @@ What I like the most in this job is possibility to create scalable, easy to main
 Clean scalable codebase means that app architecture should not be afraid of every suprising client change 😃
 
 Projects, which I used to work in:
-- Async transmission to/from external device via bluetooth for automotive market.
-- Started from the very beggining complex app that supports thousands of shop owners in Poland as their main tool. 🇵🇱 
-- Couple of fintech apps for very different markets Europe, USA, Africa. 🌎
- 
+- Async transmission to/from external device via bluetooth for automotive market. 🚗 🔵 🦷
+- Started from the very beggining complex app that supports thousands of shop owners in Poland as their main tool. 🇵🇱 🛒 👨‍💼 🧑‍💼
+- Couple of fintech apps for very different markets: Europe, USA, Africa. 🌎 🏦
+  
 ## What's next? 🤔
 
 I plan to update this profile with all knowledge which I have gained during my 4 year journey as iOS Developer. 😄
