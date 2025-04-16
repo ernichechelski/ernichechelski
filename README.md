@@ -1,6 +1,10 @@
 # [Hello there](https://i.kym-cdn.com/photos/images/original/001/947/998/a66.jpg) 👋
 
-I'm Senior iOS developer with 4 years of experience.
+I'm Senior iOS developer with 7 years of experience.
+
+If you want to see my CV, check here [PDF CV](https://github.com/ernichechelski/CV/blob/main/CV%202025%20Ernest%20Chechelski.pdf)
+
+----
 
 What I like the most in this job is possibility to create scalable, easy to maintain codebases which supports simultaneous work for as many developers as possible. Currently I know how to do so for 5-6 devs, but I'm researching the modular development which should support far more devs at once. 
 Clean scalable codebase means that app architecture should not be afraid of every suprising client change 😃
