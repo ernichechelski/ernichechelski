@@ -3,6 +3,7 @@
 I'm Senior iOS developer with 7 years of experience.
 
 If you want to see my CV, check here [PDF CV](https://github.com/ernichechelski/CV/blob/main/CV%202025%20Ernest%20Chechelski.pdf)
+
 As you can see, I don't have anything ambitious, please note that from the very beginning I am always busy with work 🤪😇
 ----
 
