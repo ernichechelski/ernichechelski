@@ -1,8 +1,8 @@
 # [Hello there](https://i.kym-cdn.com/photos/images/original/001/947/998/a66.jpg) 👋
 
-I'm Senior iOS developer with 7 years of experience.
+I'm Senior iOS developer with [![Experience](https://img.shields.io/endpoint?url=https%3A%2F%2Fgithub.com%2Fernichechelski%2FCV%2Freleases%2Flatest%2Fdownload%2Fexperience.json)](https://github.com/ernichechelski/CV/releases/latest) years of experience.
 
-If you want to see my CV, check here [PDF CV](https://github.com/ernichechelski/CV/blob/main/CV%202025%20Ernest%20Chechelski.pdf)
+If you want to see my CV, check here [PDF CV](https://github.com/ernichechelski/CV/releases/latest/download/CV.pdf)
 
 As you can see, I don't have anything ambitious, please note that from the very beginning I am always busy with work 🤪😇
 ----
