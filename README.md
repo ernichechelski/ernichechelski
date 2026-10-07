@@ -1,6 +1,6 @@
 # [Hello there](https://i.kym-cdn.com/photos/images/original/001/947/998/a66.jpg) 👋
 
-I'm Senior iOS developer with [![Experience](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fernichechelski%2FCV%2Fmain%2Fdata%2Fexperience.json)](https://github.com/ernichechelski/CV/releases/latest) years of experience.
+I'm Senior iOS developer with [![Experience](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fernichechelski%2FCV%2Fmain%2Fdata%2Fexperience.json)](https://github.com/ernichechelski/CV/releases/latest)
 
 If you want to see my CV, check here [PDF CV](https://github.com/ernichechelski/CV/releases/latest/download/CV.pdf)
 
