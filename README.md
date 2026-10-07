@@ -7,8 +7,11 @@ If you want to see my CV, check here [PDF CV](https://github.com/ernichechelski/
 As you can see, I don't have anything ambitious, please note that from the very beginning I am always busy with work 🤪😇
 ----
 
-What I like the most in this job is possibility to create scalable, easy to maintain codebases which supports simultaneous work for as many developers as possible. Currently I know how to do so for 5-6 devs, but I'm researching the modular development which should support far more devs at once. 
-Clean scalable codebase means that app architecture should not be afraid of every suprising client change 😃
+What I like the most in this job is possibility to create scalable, easy-to-maintain codebases that support simultaneous work for as many developers as possible. 
+Currently I know how to do so for up to 50 devs with module-per-feature approach.
+A clean, scalable codebase means that the app architecture should not be afraid of every surprising client change 😃
+Additionally, in these crazy times of AI, I'm trying to embrace this tool most reasonably. 
+On the one hand, I'm trying to modify the existing codebases with decent code review; on the other, I'm trying to benefit fully from spec-driven development to fast-forward development.
 
 Projects, which I used to work in:
 - Async transmission to/from external device via bluetooth for automotive market. 🚗 🔵 🦷
